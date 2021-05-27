@@ -1,0 +1,12 @@
+Bir Yönetici olarak, mevcut bir albümün bilgilerini güncellemek istiyorum.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+mevcut Adjective
+bir Determiner
+albümün Noun
+bilgilerini Noun
+güncellemek Noun
+istiyorum Verb
+. Punctuation

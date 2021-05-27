@@ -1,0 +1,10 @@
+Bir Ziyaretçi olarak, siteye kayıt olmak istiyorum.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+siteye Noun
+kayıt Noun
+olmak Noun
+istiyorum Verb
+. Punctuation

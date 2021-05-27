@@ -1,0 +1,17 @@
+Bir yönetici olarak, siteye kayıtlı aktif Kullanıcıların bir listesini görmek istiyorum böylece kullanıcıları yönetebilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+siteye Noun
+kayıtlı Adjective
+aktif Adjective
+Kullanıcıların Noun
+bir Determiner
+listesini Noun
+görmek Noun
+istiyorum Verb
+böylece Adverb
+kullanıcıları Noun
+yönetebilirim Verb
+. Punctuation

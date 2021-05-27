@@ -1,0 +1,19 @@
+Bir Ziyaretçi olarak, profil sayfasında eklenen hikayeleri görüntülemek istiyorum böylece kişi hakkında daha fazla bilgi edinebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+profil Noun
+sayfasında Noun
+eklenen Adjective
+hikayeleri Noun
+görüntülemek Noun
+istiyorum Verb
+böylece Adverb
+kişi Noun
+hakkında Noun
+daha Adverb
+fazla Adjective
+bilgi Noun
+edinebilirim Verb
+. Punctuation

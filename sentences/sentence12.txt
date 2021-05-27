@@ -1,0 +1,18 @@
+Bir yönetici olarak, kullanıcılar listesinde arama yapmak istiyorum böylece belirli bir kullanıcıyı daha kolay bulabilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+kullanıcılar Noun
+listesinde Noun
+arama Noun
+yapmak Noun
+istiyorum Verb
+böylece Adverb
+belirli Adjective
+bir Determiner
+kullanıcıyı Noun
+daha Adverb
+kolay Adjective
+bulabilirim Verb
+. Punctuation

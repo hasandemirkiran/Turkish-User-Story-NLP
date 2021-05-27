@@ -1,0 +1,16 @@
+Bir Ziyaretçi olarak, profili kapatmak istiyorum böylece arama sonuçlarına veya ana sayfaya dönebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+profili Noun
+kapatmak Noun
+istiyorum Verb
+böylece Adverb
+arama Noun
+sonuçlarına Noun
+veya Conjunction
+ana Noun
+sayfaya Noun
+dönebilirim Verb
+. Punctuation

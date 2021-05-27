@@ -1,0 +1,17 @@
+Bir Ziyaretçi olarak, olay planının bir haritasını görmek istiyorum böylece kişinin nerede konumlandığını bilebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+olay Noun
+planının Noun
+bir Determiner
+haritasını Noun
+görmek Noun
+istiyorum Verb
+böylece Adverb
+kişinin Noun
+nerede Pronoun
+konumlandığını Noun
+bilebilirim Verb
+. Punctuation

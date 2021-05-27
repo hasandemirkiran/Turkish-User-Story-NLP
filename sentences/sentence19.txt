@@ -1,0 +1,13 @@
+Bir Kullanıcı olarak e-posta adresimi ve parolamı kullanarak oturum açmak istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+e-posta Unknown
+adresimi Noun
+ve Conjunction
+parolamı Noun
+kullanarak Adverb
+oturum Noun
+açmak Noun
+istiyorum Verb
+. Punctuation

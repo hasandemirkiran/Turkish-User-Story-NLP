@@ -1,0 +1,16 @@
+Bir yönetici olarak, bir kullanıcıyı siteden tamamen kaldırmak istiyorum böylece hesabın kullanılmaması engelleyebilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+bir Determiner
+kullanıcıyı Noun
+siteden Noun
+tamamen Adverb
+kaldırmak Noun
+istiyorum Verb
+böylece Adverb
+hesabın Noun
+kullanılmaması Noun
+engelleyebilirim Verb
+. Punctuation

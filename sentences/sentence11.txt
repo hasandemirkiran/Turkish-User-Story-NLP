@@ -1,0 +1,10 @@
+Bir yönetici olarak bir Kullanıcının ayrıntılarını düzenlemek istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+bir Determiner
+Kullanıcının Noun
+ayrıntılarını Noun
+düzenlemek Noun
+istiyorum Verb
+. Punctuation

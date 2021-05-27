@@ -1,0 +1,18 @@
+Bir Ziyaretçi olarak, olayların bir listesini görmek istiyorum böylece ABC ile ilgili olaylardan haberdar olabilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+olayların Noun
+bir Determiner
+listesini Noun
+görmek Noun
+istiyorum Verb
+böylece Adverb
+ABC Noun
+ile PostPositive
+ilgili Adjective
+olaylardan Noun
+haberdar Adjective
+olabilirim Verb
+. Punctuation

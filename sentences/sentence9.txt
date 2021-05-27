@@ -1,0 +1,16 @@
+Bir yönetici olarak, belirli bir Kullanıcının sağlanan e-posta adresiyle siteye erişmesini engellemek istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+belirli Adjective
+bir Determiner
+Kullanıcının Noun
+sağlanan Adjective
+e-posta Unknown
+adresiyle Noun
+siteye Noun
+erişmesini Noun
+engellemek Noun
+istiyorum Verb
+. Punctuation

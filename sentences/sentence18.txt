@@ -1,0 +1,17 @@
+Bir Kullanıcı olarak, çıkış yapmak istiyorum böylece diğer kullanıcıların özel hesabıma erişimi olmamasını sağlayabilirim .
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+çıkış Noun
+yapmak Noun
+istiyorum Verb
+böylece Adverb
+diğer Adjective
+kullanıcıların Noun
+özel Adjective
+hesabıma Noun
+erişimi Noun
+olmamasını Noun
+sağlayabilirim Verb
+. Punctuation

@@ -1,0 +1,15 @@
+Bir Yönetici olarak, mevcut bir albümü silmek istiyorum böylece medya galerisinden kaldırabilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+mevcut Noun
+bir Determiner
+albümü Noun
+silmek Noun
+istiyorum Verb
+böylece Adverb
+medya Noun
+galerisinden Noun
+kaldırabilirim Verb
+. Punctuation

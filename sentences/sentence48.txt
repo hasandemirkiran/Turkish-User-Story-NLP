@@ -1,0 +1,13 @@
+Bir Kullanıcı olarak, bir kişinin profil sayfasına resim eklemek istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+bir Determiner
+kişinin Noun
+profil Noun
+sayfasına Noun
+resim Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

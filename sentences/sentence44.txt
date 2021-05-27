@@ -1,0 +1,12 @@
+Bir Kullanıcı olarak, artık paylaşmak istemediğim bilgileri kaldırmak istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+artık Adverb
+paylaşmak Noun
+istemediğim Noun
+bilgileri Noun
+kaldırmak Noun
+istiyorum Verb
+. Punctuation

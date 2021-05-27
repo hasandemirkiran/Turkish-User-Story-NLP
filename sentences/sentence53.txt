@@ -1,0 +1,20 @@
+Bir Ziyaretçi olarak, haritanın daha geniş bir görünümünü açmak istiyorum böylece kişinin nerede konumlandığını daha iyi anlayabilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+haritanın Noun
+daha Adverb
+geniş Adjective
+bir Determiner
+görünümünü Noun
+açmak Noun
+istiyorum Verb
+böylece Adverb
+kişinin Noun
+nerede Pronoun
+konumlandığını Noun
+daha Adverb
+iyi Adjective
+anlayabilirim Verb
+. Punctuation

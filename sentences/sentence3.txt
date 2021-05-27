@@ -1,0 +1,10 @@
+Bir yönetici olarak, veritabanı yapısı oluşturmak istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+veritabanı Noun
+yapısı Noun
+oluşturmak Noun
+istiyorum Verb
+. Punctuation

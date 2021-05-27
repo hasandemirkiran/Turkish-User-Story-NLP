@@ -1,0 +1,17 @@
+Bir Ziyaretçi olarak, belirli bir kişinin profilini görüntülemek istiyorum böylece profiline ek içerik ekleyebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+belirli Adjective
+bir Determiner
+kişinin Noun
+profilini Noun
+görüntülemek Noun
+istiyorum Verb
+böylece Adverb
+profiline Noun
+ek Noun
+içerik Noun
+ekleyebilirim Verb
+. Punctuation

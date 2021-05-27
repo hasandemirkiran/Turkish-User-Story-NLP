@@ -1,0 +1,16 @@
+Bir Yönetici olarak, mevcut bir haber öğesini silmek istiyorum böylece genel görünümden kaldırabilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+mevcut Noun
+bir Determiner
+haber Noun
+öğesini Noun
+silmek Noun
+istiyorum Verb
+böylece Adverb
+genel Adjective
+görünümden Noun
+kaldırabilirim Verb
+. Punctuation

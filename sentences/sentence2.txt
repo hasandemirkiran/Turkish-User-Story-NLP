@@ -1,0 +1,13 @@
+Bir yönetici olarak, veri içe aktarma komut dosyasını yazmak istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+veri Noun
+içe Noun
+aktarma Noun
+komut Noun
+dosyasını Noun
+yazmak Noun
+istiyorum Verb
+. Punctuation

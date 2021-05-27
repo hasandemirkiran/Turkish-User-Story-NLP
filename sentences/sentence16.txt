@@ -1,0 +1,14 @@
+Bir kullanıcı olarak, yeni bir şifre belirlemek istiyorum böylece oturum açabilirim.
+Bir Determiner
+kullanıcı Noun
+olarak Adverb
+, Punctuation
+yeni Adjective
+bir Determiner
+şifre Noun
+belirlemek Noun
+istiyorum Verb
+böylece Adverb
+oturum Noun
+açabilirim Verb
+. Punctuation

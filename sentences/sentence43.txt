@@ -1,0 +1,21 @@
+Bir Yönetici olarak, her içerik eklendiğinde bir e-posta bildirimi almak istiyorum, böylece hangi içeriğin eklendiğini öğrenmek öğrenebilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+her Determiner
+içerik Noun
+eklendiğinde Noun
+bir Determiner
+e-posta Unknown
+bildirimi Noun
+almak Noun
+istiyorum Verb
+, Punctuation
+böylece Adverb
+hangi Adjective
+içeriğin Noun
+eklendiğini Noun
+öğrenmek Noun
+öğrenebilirim Verb
+. Punctuation

@@ -1,0 +1,10 @@
+Bir Yönetici olarak yeni bir albüm eklemek istiyorum.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+yeni Adjective
+bir Determiner
+albüm Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

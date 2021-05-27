@@ -1,0 +1,14 @@
+Bir Ziyaretçi olarak, seçilen medya öğesi hakkında metinsel bilgileri görüntülemek istiyorum.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+seçilen Adjective
+medya Noun
+öğesi Noun
+hakkında Noun
+metinsel Adjective
+bilgileri Noun
+görüntülemek Noun
+istiyorum Verb
+. Punctuation

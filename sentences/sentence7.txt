@@ -1,0 +1,15 @@
+Bir yönetici olarak, iletişim formu gönderildiğinde e-posta almak istiyorum böylece e-postaları yanıtlayabilirim .
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+iletişim Noun
+formu Noun
+gönderildiğinde Noun
+e-posta Unknown
+almak Noun
+istiyorum Verb
+böylece Adverb
+e-postaları Unknown
+yanıtlayabilirim Verb
+. Punctuation

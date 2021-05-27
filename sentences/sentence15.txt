@@ -1,0 +1,8 @@
+Bir yönetici olarak Kullanıcıları yönetmek istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+Kullanıcıları Noun
+yönetmek Noun
+istiyorum Verb
+. Punctuation

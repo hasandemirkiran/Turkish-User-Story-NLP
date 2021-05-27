@@ -1,0 +1,11 @@
+Bir yönetici olarak, mevcut bir olayı silmek istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+mevcut Noun
+bir Determiner
+olayı Noun
+silmek Noun
+istiyorum Verb
+. Punctuation

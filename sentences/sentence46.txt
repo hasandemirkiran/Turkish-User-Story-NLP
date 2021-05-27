@@ -1,0 +1,14 @@
+Bir Kullanıcı olarak, bir kişinin profil sayfasına ses parçası eklemek istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+bir Determiner
+kişinin Noun
+profil Noun
+sayfasına Noun
+ses Noun
+parçası Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

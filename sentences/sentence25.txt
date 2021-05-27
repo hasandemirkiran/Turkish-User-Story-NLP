@@ -1,0 +1,15 @@
+Bir yönetici olarak, olayların listesini yönetmek istiyorum böylece olaylar bölümünü güncel tutabilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+olayların Noun
+listesini Noun
+yönetmek Noun
+istiyorum Verb
+böylece Adverb
+olaylar Noun
+bölümünü Noun
+güncel Adjective
+tutabilirim Verb
+. Punctuation

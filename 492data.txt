@@ -1,0 +1,58 @@
+Bir yönetici olarak, Etkinlik Kayıtlarını içe aktarmak istiyorum.
+Bir yönetici olarak, verileri Postgres'e aktarmak istiyorum.
+Bir yönetici olarak, veri içe aktarma komut dosyasını yazmak istiyorum.
+Bir yönetici olarak, veritabanı yapısı oluşturmak istiyorum.
+Bir ziyaretçi olarak, site geniş altbilgi menüsünden sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
+Bir ziyaretçi olarak, sitenin geniş üst menüsünde gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
+Bir ziyaretçi olarak, site genelinde gezinme menüleri aracılığıyla sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
+Bir yönetici olarak, iletişim formu gönderildiğinde e-posta almak istiyorum böylece e-postaları yanıtlayabilirim.
+Bir ziyaretçi olarak, iletişim formunu kullanmak istiyorum böylece yöneticiyle iletişime geçebilirim.
+Bir yönetici olarak, belirli bir Kullanıcının sağlanan e-posta adresiyle siteye erişmesini engellemek istiyorum.
+Bir yönetici olarak, bir kullanıcıyı siteden tamamen kaldırmak istiyorum böylece hesabın kullanılmaması engelleyebilirim.
+Bir yönetici olarak bir Kullanıcının ayrıntılarını düzenlemek istiyorum.
+Bir yönetici olarak, kullanıcılar listesinde arama yapmak istiyorum böylece belirli bir kullanıcıyı daha kolay bulabilirim.
+Bir yönetici olarak, siteye kayıtlı aktif Kullanıcıların bir listesini görmek istiyorum böylece kullanıcıları yönetebilirim.
+Bir yönetici olarak, e-posta bildirimi almak istiyorum böylece yeni bir Kullanıcı kaydolduğunda kimin kayıt olduğunu bilebilirim.
+Bir yönetici olarak Kullanıcıları yönetmek istiyorum.
+Bir kullanıcı olarak, yeni bir şifre belirlemek istiyorum böylece oturum açabilirim.
+Bir Kullanıcı olarak, şifre sıfırlama talebinde bulunmak istiyorum.
+Bir Kullanıcı olarak, çıkış yapmak istiyorum böylece diğer kullanıcıların özel hesabıma erişimi olmamasını sağlayabilirim.
+Bir Kullanıcı olarak e-posta adresimi ve parolamı kullanarak oturum açmak istiyorum.
+Bir Kullanıcı olarak, hesap aktivasyon bağlantısı içeren bir e-posta almak istiyorum böylece e-posta adresimin doğruluğunu onaylayabilirim.
+Bir Ziyaretçi olarak, siteye kayıt olmak istiyorum.
+Bir yönetici olarak, mevcut bir olayı silmek istiyorum.
+Bir yönetici olarak, mevcut bir etkinliği düzenlemek istiyorum böylece içeriği güncelleyebilirim.
+Bir yönetici olarak, yeni bir etkinlik eklemek istiyorum.
+Bir yönetici olarak, olayların listesini yönetmek istiyorum böylece olaylar bölümünü güncel tutabilirim.
+Bir Ziyaretçi olarak, olayların bir listesini görmek istiyorum böylece ABC ile ilgili olaylardan haberdar olabilirim.
+Bir Yönetici olarak, mevcut bir haber öğesini silmek istiyorum böylece genel görünümden kaldırabilirim.
+Bir Yönetici olarak mevcut bir haber öğesini düzenlemek istiyorum, böylece içeriği güncelleyebilirim.
+Bir Yönetici olarak, yeni bir haber öğesi eklemek istiyorum böylece haber öğelerine genel bakışta görüntüleyebilirim.
+Bir Yönetici olarak, haberlerin listesini yönetmek istiyorum böylece haberler bölümünü güncel tutabilirim.
+Bir Yönetici olarak, seçilen galeriye yeni medya öğeleri eklemek istiyorum.
+Bir Yönetici olarak, mevcut bir albümü silmek istiyorum böylece medya galerisinden kaldırabilirim.
+Bir Yönetici olarak, mevcut bir albümün bilgilerini güncellemek istiyorum.
+Bir Yönetici olarak yeni bir albüm eklemek istiyorum.
+Bir Yönetici olarak, medya galerisini yönetmek istiyorum böylece içerik ekleyip çıkarabilirim.
+Bir Ziyaretçi olarak, seçilen medya öğesi hakkında metinsel bilgileri görüntülemek istiyorum.
+Bir Ziyaretçi olarak, albümde gezinmek istiyorum böylece tüm medya öğelerini görebilirim.
+Bir Ziyaretçi olarak, albüm seçmek istiyorum böylece  albümdeki medyayı görüntüleyebilirim.
+Bir Ziyaretçi olarak medya kategorilerine geri dönmek istiyorum.
+Bir Ziyaretçi olarak, seçilen kategorideki mevcut albümlerin bir özetini görmek istiyorum böylece belirli bir albümü seçebilirim.
+Bir Ziyaretçi olarak, mevcut kategorilerin özetini görmek istiyorum böylece belirli bir kategoriyi seçebilirim.
+Bir Yönetici olarak, bir kişinin profil sayfasından bir içeriği silmek istiyorum.
+Bir Yönetici olarak, her içerik eklendiğinde bir e-posta bildirimi almak istiyorum, böylece hangi içeriğin eklendiğini öğrenmek öğrenebilirim.
+Bir Kullanıcı olarak, artık paylaşmak istemediğim bilgileri kaldırmak istiyorum.
+Bir Kullanıcı olarak, bir kişinin profil sayfasına açıklama eklemek istiyorum.
+Bir Kullanıcı olarak, bir kişinin profil sayfasına ses parçası eklemek istiyorum.
+Bir Kullanıcı olarak, bir kişinin profil sayfasına video bağlantısı eklemek istiyorum.
+Bir Kullanıcı olarak, bir kişinin profil sayfasına resim eklemek istiyorum.
+Bir Kullanıcı olarak, bir kişinin profil sayfasına metin eklemek istiyorum.
+Bir Ziyaretçi olarak, profili kapatmak istiyorum böylece arama sonuçlarına veya ana sayfaya dönebilirim.
+Bir Ziyaretçi olarak, içeriği kimin eklediğini ve ne zaman eklediğini görmek istiyorum.
+Bir Ziyaretçi olarak, profil sayfasında eklenen hikayeleri görüntülemek istiyorum böylece kişi hakkında daha fazla bilgi edinebilirim.
+Bir Ziyaretçi olarak, haritanın daha geniş bir görünümünü açmak istiyorum böylece kişinin nerede konumlandığını daha iyi anlayabilirim.
+Bir Ziyaretçi olarak, olay planının bir haritasını görmek istiyorum böylece kişinin nerede konumlandığını bilebilirim.
+Bir Ziyaretçi olarak, kişinin profil sayfasından etkileşimli haritayı açmak istiyorum böylece kişinin etkinlik planının yerini bilebilirim.
+Bir Ziyaretçi olarak, belirli bir kişinin profilini görüntülemek istiyorum böylece profiline ek içerik ekleyebilirim.
+Bir Yönetici olarak, yer değiştirme durumunda mevcut bir kişiyi silmek istiyorum.

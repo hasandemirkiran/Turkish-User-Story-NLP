@@ -1,0 +1,19 @@
+Bir Ziyaretçi olarak, seçilen kategorideki mevcut albümlerin bir özetini görmek istiyorum böylece belirli bir albümü seçebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+seçilen Adjective
+kategorideki Adjective
+mevcut Adjective
+albümlerin Noun
+bir Determiner
+özetini Noun
+görmek Noun
+istiyorum Verb
+böylece Adverb
+belirli Adjective
+bir Determiner
+albümü Noun
+seçebilirim Verb
+. Punctuation

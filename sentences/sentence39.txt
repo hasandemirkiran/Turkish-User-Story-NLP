@@ -1,0 +1,10 @@
+Bir Ziyaretçi olarak medya kategorilerine geri dönmek istiyorum.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+medya Noun
+kategorilerine Noun
+geri Adverb
+dönmek Noun
+istiyorum Verb
+. Punctuation

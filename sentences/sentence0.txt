@@ -1,0 +1,11 @@
+Bir yönetici olarak, Etkinlik Kayıtlarını içe aktarmak istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+Etkinlik Noun
+Kayıtlarını Noun
+içe Noun
+aktarmak Noun
+istiyorum Verb
+. Punctuation

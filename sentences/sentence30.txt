@@ -1,0 +1,15 @@
+Bir Yönetici olarak, haberlerin listesini yönetmek istiyorum böylece haberler bölümünü güncel tutabilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+haberlerin Noun
+listesini Noun
+yönetmek Noun
+istiyorum Verb
+böylece Adverb
+haberler Noun
+bölümünü Noun
+güncel Adjective
+tutabilirim Verb
+. Punctuation

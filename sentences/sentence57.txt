@@ -1,0 +1,14 @@
+Bir Yönetici olarak, yer değiştirme durumunda mevcut bir kişiyi silmek istiyorum.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+yer Noun
+değiştirme Verb
+durumunda Noun
+mevcut Adjective
+bir Determiner
+kişiyi Noun
+silmek Noun
+istiyorum Verb
+. Punctuation

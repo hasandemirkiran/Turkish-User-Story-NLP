@@ -1,0 +1,15 @@
+Bir Yönetici olarak mevcut bir haber öğesini düzenlemek istiyorum, böylece içeriği güncelleyebilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+mevcut Adjective
+bir Determiner
+haber Noun
+öğesini Noun
+düzenlemek Noun
+istiyorum Verb
+, Punctuation
+böylece Adverb
+içeriği Noun
+güncelleyebilirim Verb
+. Punctuation

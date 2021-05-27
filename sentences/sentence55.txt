@@ -1,0 +1,19 @@
+Bir Ziyaretçi olarak, kişinin profil sayfasından etkileşimli haritayı açmak istiyorum böylece kişinin etkinlik planının yerini bilebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+kişinin Noun
+profil Noun
+sayfasından Noun
+etkileşimli Adjective
+haritayı Noun
+açmak Noun
+istiyorum Verb
+böylece Adverb
+kişinin Noun
+etkinlik Noun
+planının Noun
+yerini Noun
+bilebilirim Verb
+. Punctuation

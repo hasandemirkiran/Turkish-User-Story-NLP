@@ -1,0 +1,14 @@
+Bir yönetici olarak, mevcut bir etkinliği düzenlemek istiyorum böylece içeriği güncelleyebilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+mevcut Adjective
+bir Determiner
+etkinliği Noun
+düzenlemek Noun
+istiyorum Verb
+böylece Adverb
+içeriği Noun
+güncelleyebilirim Verb
+. Punctuation

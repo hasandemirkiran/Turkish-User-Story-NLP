@@ -1,0 +1,15 @@
+Bir Ziyaretçi olarak, içeriği kimin eklediğini ve ne zaman eklediğini görmek istiyorum.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+içeriği Noun
+kimin Pronoun
+eklediğini Noun
+ve Conjunction
+ne Adjective
+zaman Noun
+eklediğini Noun
+görmek Noun
+istiyorum Verb
+. Punctuation

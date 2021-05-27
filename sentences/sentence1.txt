@@ -1,0 +1,11 @@
+Bir yönetici olarak, verileri Postgres'e aktarmak istiyorum..
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+verileri Noun
+Postgres'e Noun
+aktarmak Noun
+istiyorum Verb
+. Punctuation
+. Punctuation

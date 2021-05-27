@@ -1,0 +1,14 @@
+Bir ziyaretçi olarak, iletişim formunu kullanmak istiyorum böylece yöneticiyle iletişime geçebilirim.
+Bir Determiner
+ziyaretçi Noun
+olarak Adverb
+, Punctuation
+iletişim Noun
+formunu Noun
+kullanmak Noun
+istiyorum Verb
+böylece Adverb
+yöneticiyle Noun
+iletişime Noun
+geçebilirim Verb
+. Punctuation

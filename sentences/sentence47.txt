@@ -1,0 +1,14 @@
+Bir Kullanıcı olarak, bir kişinin profil sayfasına video bağlantısı eklemek istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+bir Determiner
+kişinin Noun
+profil Noun
+sayfasına Noun
+video Noun
+bağlantısı Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

@@ -1,0 +1,13 @@
+Bir Yönetici olarak, seçilen galeriye yeni medya öğeleri eklemek istiyorum.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+seçilen Adjective
+galeriye Noun
+yeni Adjective
+medya Noun
+öğeleri Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

@@ -1,0 +1,16 @@
+Bir Ziyaretçi olarak, mevcut kategorilerin özetini görmek istiyorum böylece belirli bir kategoriyi seçebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+mevcut Adjective
+kategorilerin Noun
+özetini Noun
+görmek Noun
+istiyorum Verb
+böylece Adverb
+belirli Adjective
+bir Determiner
+kategoriyi Noun
+seçebilirim Verb
+. Punctuation

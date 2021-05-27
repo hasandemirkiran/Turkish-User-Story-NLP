@@ -1,0 +1,14 @@
+Bir Ziyaretçi olarak, albümde gezinmek istiyorum böylece tüm medya öğelerini görebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+albümde Noun
+gezinmek Noun
+istiyorum Verb
+böylece Adverb
+tüm Determiner
+medya Noun
+öğelerini Noun
+görebilirim Verb
+. Punctuation

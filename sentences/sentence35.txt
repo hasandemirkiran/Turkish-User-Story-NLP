@@ -1,0 +1,14 @@
+Bir Yönetici olarak, medya galerisini yönetmek istiyorum böylece içerik ekleyip çıkarabilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+medya Noun
+galerisini Noun
+yönetmek Noun
+istiyorum Verb
+böylece Adverb
+içerik Adjective
+ekleyip Adverb
+çıkarabilirim Verb
+. Punctuation

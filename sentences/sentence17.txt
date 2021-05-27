@@ -1,0 +1,11 @@
+Bir Kullanıcı olarak, şifre sıfırlama talebinde bulunmak istiyorum.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+şifre Noun
+sıfırlama Noun
+talebinde Noun
+bulunmak Noun
+istiyorum Verb
+. Punctuation

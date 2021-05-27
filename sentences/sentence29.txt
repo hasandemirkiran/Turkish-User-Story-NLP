@@ -1,0 +1,18 @@
+Bir Yönetici olarak, yeni bir haber öğesi eklemek istiyorum böylece haber öğelerine genel bakışta görüntüleyebilirim.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+yeni Adjective
+bir Determiner
+haber Noun
+öğesi Noun
+eklemek Noun
+istiyorum Verb
+böylece Adverb
+haber Noun
+öğelerine Noun
+genel Adjective
+bakışta Noun
+görüntüleyebilirim Verb
+. Punctuation

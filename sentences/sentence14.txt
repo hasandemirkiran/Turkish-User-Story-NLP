@@ -1,0 +1,19 @@
+Bir yönetici olarak, e-posta bildirimi almak istiyorum böylece yeni bir Kullanıcı kaydolduğunda kimin kayıt olduğunu bilebilirim.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+e-posta Unknown
+bildirimi Noun
+almak Noun
+istiyorum Verb
+böylece Adverb
+yeni Adjective
+bir Determiner
+Kullanıcı Noun
+kaydolduğunda Noun
+kimin Pronoun
+kayıt Noun
+olduğunu Noun
+bilebilirim Verb
+. Punctuation

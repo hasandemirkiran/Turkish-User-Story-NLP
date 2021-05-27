@@ -1,0 +1,21 @@
+Bir ziyaretçi olarak, sitenin geniş üst menüsünde gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
+Bir Determiner
+ziyaretçi Noun
+olarak Adverb
+, Punctuation
+sitenin Noun
+geniş Adjective
+üst Noun
+menüsünde Noun
+gezinmek Noun
+istiyorum Verb
+böylece Adverb
+aradığım Noun
+sayfayı Noun
+her Determiner
+zaman Noun
+hızlı Adjective
+bir Determiner
+şekilde Noun
+açabilirim Verb
+. Punctuation

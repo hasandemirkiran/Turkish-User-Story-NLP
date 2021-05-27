@@ -1,0 +1,11 @@
+Bir yönetici olarak, yeni bir etkinlik eklemek istiyorum.
+Bir Determiner
+yönetici Noun
+olarak Adverb
+, Punctuation
+yeni Adjective
+bir Determiner
+etkinlik Noun
+eklemek Noun
+istiyorum Verb
+. Punctuation

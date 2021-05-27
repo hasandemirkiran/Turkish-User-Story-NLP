@@ -1,0 +1,19 @@
+Bir Kullanıcı olarak, hesap aktivasyon bağlantısı içeren bir e-posta almak istiyorum böylece e-posta adresimin doğruluğunu onaylayabilirim.
+Bir Determiner
+Kullanıcı Noun
+olarak Adverb
+, Punctuation
+hesap Noun
+aktivasyon Noun
+bağlantısı Noun
+içeren Adjective
+bir Determiner
+e-posta Unknown
+almak Noun
+istiyorum Verb
+böylece Adverb
+e-posta Unknown
+adresimin Noun
+doğruluğunu Noun
+onaylayabilirim Verb
+. Punctuation

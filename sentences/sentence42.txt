@@ -1,0 +1,14 @@
+Bir Yönetici olarak, bir kişinin profil sayfasından bir içeriği silmek istiyorum.
+Bir Determiner
+Yönetici Noun
+olarak Adverb
+, Punctuation
+bir Determiner
+kişinin Noun
+profil Noun
+sayfasından Noun
+bir Determiner
+içeriği Noun
+silmek Noun
+istiyorum Verb
+. Punctuation

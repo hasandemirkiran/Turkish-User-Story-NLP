@@ -1,0 +1,13 @@
+Bir Ziyaretçi olarak, albüm seçmek istiyorum böylece  albümdeki medyayı görüntüleyebilirim.
+Bir Determiner
+Ziyaretçi Noun
+olarak Adverb
+, Punctuation
+albüm Noun
+seçmek Noun
+istiyorum Verb
+böylece Adverb
+albümdeki Adjective
+medyayı Noun
+görüntüleyebilirim Verb
+. Punctuation
