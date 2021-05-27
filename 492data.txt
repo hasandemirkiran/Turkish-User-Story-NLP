@@ -4,7 +4,7 @@ Bir yönetici olarak, veri içe aktarma komut dosyasını yazmak istiyorum.
 Bir yönetici olarak, veritabanı yapısı oluşturmak istiyorum.
 Bir ziyaretçi olarak, site geniş altbilgi menüsünden sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
 Bir ziyaretçi olarak, sitenin geniş üst menüsünde gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
-Bir ziyaretçi olarak, site genelinde gezinme menüleri aracılığıyla sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
+Bir ziyaretçi olarak, gezinme menüleri aracılığıyla sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
 Bir yönetici olarak, iletişim formu gönderildiğinde e-posta almak istiyorum böylece e-postaları yanıtlayabilirim.
 Bir ziyaretçi olarak, iletişim formunu kullanmak istiyorum böylece yöneticiyle iletişime geçebilirim.
 Bir yönetici olarak, belirli bir Kullanıcının sağlanan e-posta adresiyle siteye erişmesini engellemek istiyorum.
