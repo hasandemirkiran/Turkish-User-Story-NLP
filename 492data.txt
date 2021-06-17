@@ -1,6 +1,6 @@
 Bir yönetici olarak, Etkinlik Kayıtlarını içe aktarmak istiyorum.
 Bir yönetici olarak, verileri Postgres'e aktarmak istiyorum.
-Bir yönetici olarak, veri içe aktarma komut dosyasını yazmak istiyorum.
+Bir yönetici olarak, içe veri aktarma komut dosyasını yazmak istiyorum.
 Bir yönetici olarak, veritabanı yapısı oluşturmak istiyorum.
 Bir ziyaretçi olarak, site geniş altbilgi menüsünden sitede gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
 Bir ziyaretçi olarak, sitenin geniş üst menüsünde gezinmek istiyorum böylece aradığım sayfayı her zaman hızlı bir şekilde açabilirim.
@@ -8,16 +8,16 @@ Bir ziyaretçi olarak, gezinme menüleri aracılığıyla sitede gezinmek istiyo
 Bir yönetici olarak, iletişim formu gönderildiğinde e-posta almak istiyorum böylece e-postaları yanıtlayabilirim.
 Bir ziyaretçi olarak, iletişim formunu kullanmak istiyorum böylece yöneticiyle iletişime geçebilirim.
 Bir yönetici olarak, belirli bir Kullanıcının sağlanan e-posta adresiyle siteye erişmesini engellemek istiyorum.
-Bir yönetici olarak, bir kullanıcıyı siteden tamamen kaldırmak istiyorum böylece hesabın kullanılmaması engelleyebilirim.
+Bir yönetici olarak, bir kullanıcıyı siteden kaldırmak istiyorum böylece hesabın kullanılmaması engelleyebilirim.
 Bir yönetici olarak bir Kullanıcının ayrıntılarını düzenlemek istiyorum.
 Bir yönetici olarak, kullanıcılar listesinde arama yapmak istiyorum böylece belirli bir kullanıcıyı daha kolay bulabilirim.
 Bir yönetici olarak, siteye kayıtlı aktif Kullanıcıların bir listesini görmek istiyorum böylece kullanıcıları yönetebilirim.
 Bir yönetici olarak, e-posta bildirimi almak istiyorum böylece yeni bir Kullanıcı kaydolduğunda kimin kayıt olduğunu bilebilirim.
 Bir yönetici olarak Kullanıcıları yönetmek istiyorum.
 Bir kullanıcı olarak, yeni bir şifre belirlemek istiyorum böylece oturum açabilirim.
-Bir Kullanıcı olarak, şifre sıfırlama talebinde bulunmak istiyorum.
+Bir Kullanıcı olarak, şifre sıfırlamak istiyorum.
 Bir Kullanıcı olarak, çıkış yapmak istiyorum böylece diğer kullanıcıların özel hesabıma erişimi olmamasını sağlayabilirim.
-Bir Kullanıcı olarak e-posta adresimi ve parolamı kullanarak oturum açmak istiyorum.
+Bir Kullanıcı olarak e-posta adresi ve parolayla oturum açmak istiyorum.
 Bir Kullanıcı olarak, hesap aktivasyon bağlantısı içeren bir e-posta almak istiyorum böylece e-posta adresimin doğruluğunu onaylayabilirim.
 Bir Ziyaretçi olarak, siteye kayıt olmak istiyorum.
 Bir yönetici olarak, mevcut bir olayı silmek istiyorum.
@@ -34,7 +34,7 @@ Bir Yönetici olarak, mevcut bir albümü silmek istiyorum böylece medya galeri
 Bir Yönetici olarak, mevcut bir albümün bilgilerini güncellemek istiyorum.
 Bir Yönetici olarak yeni bir albüm eklemek istiyorum.
 Bir Yönetici olarak, medya galerisini yönetmek istiyorum böylece içerik ekleyip çıkarabilirim.
-Bir Ziyaretçi olarak, seçilen medya öğesi hakkında metinsel bilgileri görüntülemek istiyorum.
+Bir Ziyaretçi olarak, seçilen medya öğesi hakkındaki metinsel bilgileri görüntülemek istiyorum.
 Bir Ziyaretçi olarak, albümde gezinmek istiyorum böylece tüm medya öğelerini görebilirim.
 Bir Ziyaretçi olarak, albüm seçmek istiyorum böylece  albümdeki medyayı görüntüleyebilirim.
 Bir Ziyaretçi olarak medya kategorilerine geri dönmek istiyorum.
