@@ -1,0 +1,51 @@
+
+MATCH (n) DELETE n;
+match ()-[r]->() delete r;
+
+:auto LOAD CSV WITH HEADERS FROM 'file:///C:/Users/User/OneDrive/Masaüstü/finalProject/Turkish-User-Story-NLP/separated_sentences.csv' as row
+
+CREATE (:UserStory {name: row.ID, actionRole: row.ActionRole, actionObject: row.ActionObject, actionPlace: row.ActionPlace, actionTool: row.ActionTool, actionTime: row.ActionTime, action: row.Action})
+MERGE (:ActionRole {name: row.ActionRole})
+MERGE (:Action {name: row.Action})
+
+WITH row WHERE NOT row.ActionObject IS null
+MERGE (:ActionObject {name: row.ActionObject})
+
+WITH row WHERE NOT row.ActionPlace IS null
+MERGE (:ActionPlace {name: row.ActionPlace})
+
+
+:auto LOAD CSV WITH HEADERS FROM 'file:///C:/Users/User/OneDrive/Masaüstü/finalProject/Turkish-User-Story-NLP/separated_sentences.csv' as row
+
+WITH row WHERE NOT row.ActionTime IS null
+MERGE (:ActionTime {name: row.ActionTime})
+
+
+:auto LOAD CSV WITH HEADERS FROM 'file:///C:/Users/User/OneDrive/Masaüstü/finalProject/Turkish-User-Story-NLP/separated_sentences.csv' as row
+WITH row WHERE NOT row.ActionTool IS null
+MERGE (:ActionTool {name: row.ActionTool})
+
+
+MATCH (a: ActionRole), (b: UserStory) 
+WHERE EXISTS(b.actionRole) AND a.name=b.actionRole 
+CREATE (a)-[:ACTIONROLE]->(b)
+
+MATCH (a: ActionObject), (b: UserStory) 
+WHERE EXISTS(b.actionObject) AND a.name=b.actionObject 
+CREATE (b)-[:ACTIONOBJECT]->(a)
+
+MATCH (a: ActionPlace), (b: UserStory) 
+WHERE EXISTS(b.actionPlace) AND a.name=b.actionPlace 
+CREATE (b)-[:ACTIONPLACE]->(a)
+
+MATCH (a: ActionTool), (b: UserStory) 
+WHERE EXISTS(b.actionTool) AND a.name=b.actionTool 
+CREATE (b)-[:ACTIONTOOL]->(a)
+
+MATCH (a: ActionTime), (b: UserStory) 
+WHERE EXISTS(b.actionTime) AND a.name=b.actionTime 
+CREATE (b)-[:ACTIONTIME]->(a)
+
+MATCH (a: Action), (b: UserStory) 
+WHERE EXISTS(b.action) AND a.name=b.action 
+CREATE (b)-[:ACTION]->(a)

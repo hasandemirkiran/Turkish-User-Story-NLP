@@ -1,0 +1,59 @@
+ID,ActionRole,ActionObject,ActionPlace,ActionTool,ActionTime,Action
+US0,yönetici,etkinlik kayıtlarını,içe,,,aktarmak
+US1,yönetici,verileri,Postgres'e,,,aktarmak
+US2,yönetici,veri aktarma komut dosyasını,içe,,,yazmak
+US3,yönetici,veritabanı yapısı,,,,oluşturmak
+US4,ziyaretçi,,site geniş altbilgi menüsünden sitede,,,gezinmek
+US5,ziyaretçi,,sitenin geniş üst menüsünde,,,gezinmek
+US6,ziyaretçi,,sitede,gezinme menüleri aracılığıyla,,gezinmek
+US7,yönetici,eposta,,,iletişim formu gönderildiğinde,almak
+US8,ziyaretçi,iletişim formunu,,,,kullanmak
+US9,yönetici,erişmesini,siteye,belirli kullanıcının sağlanan eposta adresiyle,,engellemek
+US10,yönetici,kullanıcıyı,siteden,,,kaldırmak
+US11,yönetici,kullanıcının ayrıntılarını,,,,düzenlemek
+US12,yönetici,arama,kullanıcılar listesinde,,,yapmak
+US13,yönetici,kayıtlı aktif kullanıcıların listesini,siteye,,,görmek
+US14,yönetici,eposta bildirimi,,,,almak
+US15,yönetici,kullanıcıları,,,,yönetmek
+US16,kullanıcı,yeni şifre,,,,belirlemek
+US17,kullanıcı,şifre,,,,sıfırlamak
+US18,kullanıcı,çıkış,,,,yapmak
+US19,kullanıcı,oturum,,eposta adresi ve parolayla,,açmak
+US20,kullanıcı,hesap aktivasyon bağlantısı içeren eposta,,,,almak
+US21,ziyaretçi,kayıt,siteye,,,olmak
+US22,yönetici,mevcut olayı,,,,silmek
+US23,yönetici,mevcut etkinliği,,,,düzenlemek
+US24,yönetici,yeni etkinlik,,,,eklemek
+US25,yönetici,olayların listesini,,,,yönetmek
+US26,ziyaretçi,olayların listesini,,,,görmek
+US27,yönetici,mevcut haber öğesini,,,,silmek
+US28,yönetici,mevcut haber öğesini,,,,düzenlemek
+US29,yönetici,yeni haber öğesi,,,,eklemek
+US30,yönetici,haberlerin listesini,,,,yönetmek
+US31,yönetici,yeni medya öğeleri,seçilen galeriye,,,eklemek
+US32,yönetici,mevcut albümü,,,,silmek
+US33,yönetici,mevcut albümün bilgilerini,,,,güncellemek
+US34,yönetici,yeni albüm,,,,eklemek
+US35,yönetici,medya galerisini,,,,yönetmek
+US36,ziyaretçi,seçilen medya öğesi hakkındaki metinsel bilgileri,,,,görüntülemek
+US37,ziyaretçi,,albümde,,,gezinmek
+US38,ziyaretçi,albüm,,,,seçmek
+US39,ziyaretçi,geri,medya kategorilerine,,,dönmek
+US40,ziyaretçi,seçilen kategorideki mevcut albümlerin özetini,,,,görmek
+US41,ziyaretçi,mevcut kategorilerin özetini,,,,görmek
+US42,yönetici,içeriği,kişinin profil sayfasından,,,silmek
+US43,yönetici,eposta bildirimi,,,içerik eklendiğinde,almak
+US44,kullanıcı,paylaşmak istemediğim bilgileri,,,,kaldırmak
+US45,kullanıcı,açıklama,kişinin profil sayfasına,,,eklemek
+US46,kullanıcı,ses parçası,kişinin profil sayfasına,,,eklemek
+US47,kullanıcı,video bağlantısı,kişinin profil sayfasına,,,eklemek
+US48,kullanıcı,resim,kişinin profil sayfasına,,,eklemek
+US49,kullanıcı,metin,kişinin profil sayfasına,,,eklemek
+US50,ziyaretçi,profili,,,,kapatmak
+US51,ziyaretçi,içeriği kimin eklediğini ve ne eklediğini,,,,görmek
+US52,ziyaretçi,eklenen hikayeleri,profil sayfasında,,,görüntülemek
+US53,ziyaretçi,haritanın geniş görünümünü,,,,açmak
+US54,ziyaretçi,olay planının haritasını,,,,görmek
+US55,ziyaretçi,etkileşimli haritayı,kişinin profil sayfasından,,,açmak
+US56,ziyaretçi,belirli kişinin profilini,,,,görüntülemek
+US57,yönetici,mevcut kişiyi,yer değiştirme durumunda,,,silmek
