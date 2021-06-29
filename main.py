@@ -217,3 +217,9 @@ with open("492data.txt", 'r', encoding='utf-8') as file:
                      action_benefit_object, action_benefit_place, action_benefit_tool, action_benefit_time,
                      benefit_action])
             id_count += 1
+        else:
+            with open('separated_sentences.csv', 'a', encoding='UTF8', newline='') as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(
+                    ["US" + str(id_count), role, action_object, action_place, action_tool, action_time, action,"","","","",""])
+            id_count += 1
