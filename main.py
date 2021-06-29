@@ -5,6 +5,8 @@ import nltk
 import re
 import csv
 
+
+
 nltk.download('punkt')
 analyzer = zeyrek.MorphAnalyzer()
 
@@ -19,7 +21,8 @@ with open("stopwords.txt", 'r', encoding='utf-8') as file:
 
 with open('separated_sentences.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["ID", "ActionRole", "ActionObject", "ActionPlace", "ActionTool", "ActionTime", "Action"])
+    writer.writerow(["ID", "ActionRole", "ActionObject", "ActionPlace", "ActionTool", "ActionTime", "Action",
+                     "BenefitObject", "BenefitPlace", "BenefitTool", "BenefitTime", "BenefitAction"])
 
 with open("492data.txt", 'r', encoding='utf-8') as file:
     lines = file.readlines()
@@ -116,23 +119,101 @@ with open("492data.txt", 'r', encoding='utf-8') as file:
                 elif last_item == 'action_time':
                     action_time_list.append(item)
 
-        print("--------------------------")
-        print("Action Object: ", " ".join(reversed(action_object_list)))
-        print("Action Place: ", " ".join(reversed(action_place_list)))
-        print("Action Tool: ", " ".join(reversed(action_tool_list)))
-        print("Action Time: ", " ".join(reversed(action_time_list)))
-        print("--------------------------")
         action_object = " ".join(reversed(action_object_list))
         action_place = " ".join(reversed(action_place_list))
         action_tool = " ".join(reversed(action_tool_list))
         action_time = " ".join(reversed(action_time_list))
 
-        with open('separated_sentences.csv', 'a', encoding='UTF8', newline='') as csv_file:
-            writer = csv.writer(csv_file)
-            writer.writerow(["US" + str(id_count), role, action_object, action_place, action_tool, action_time, action])
-        id_count += 1
         if "böylece" in words_sw:
             benefit_action = analyzer.lemmatize(words_sw[-1])[0][1][-1]
-
             boylece_index = words_sw.index("böylece") + 1
-            benefit_action_object = " ".join(words_sw[boylece_index:-1])
+            benefit_action_item = words_sw[boylece_index: -1]
+
+            flag_benefit_action_object = False
+            flag_benefit_action_place = False
+            flag_benefit_action_tool = False
+            flag_benefit_action_time = False
+            last_benefit_item = ''
+
+            action_benefit_object_list = []
+            action_benefit_place_list = []
+            action_benefit_tool_list = []
+            action_benefit_time_list = []
+
+            action_benefit_tool_found = False
+
+            for item in reversed(benefit_action_item):
+                index_of_benefit_item = benefit_action_item.index(item)
+
+                x = re.search("[i, ı, u , ü]$", item)
+                y = re.search("de$|da$|te$|ta$|e$|a$|dan$|den$", item)
+                z = re.search("le$|la$|ile$", item)
+                k = re.search("ğında$|ğinde$|ğunda$|ğünde$", item)
+
+                # check if the type is new for this item
+                is_new_benefit_type = False
+
+                lemmatized_benefit = analyzer.lemmatize(item)[0][1][0].replace("-", "")
+                analyzed_benefit = analyzer.analyze(item)[0][0][2].lower()
+
+                if lemmatized_benefit.lower() != item.lower():
+                    if x and not flag_benefit_action_object and not action_benefit_tool_found:
+                        last_benefit_item = 'action_benefit_object'
+                        flag_benefit_action_object = True
+                        action_benefit_object_list.append(item)
+                        is_new_benefit_type = True
+
+                    elif k and not flag_benefit_action_time and not action_benefit_tool_found:
+                        last_benefit_item = 'action_benefit_time'
+                        flag_benefit_action_time = True
+                        action_benefit_time_list.append(item)
+                        is_new_benefit_type = True
+
+                    elif z and not flag_benefit_action_tool:
+                        last_benefit_item = 'action_benefit_tool'
+                        flag_benefit_action_tool = True
+                        action_benefit_tool_list.append(item)
+                        is_new_benefit_type = True
+                        action_benefit_tool_found = not action_benefit_tool_found
+
+
+                    elif y and not flag_benefit_action_place and not action_benefit_tool_found:
+                        lemmatized_benefit_verb_check = re.search("mak$|mek$", lemmatized_benefit)
+                        item_benefit_verb_check = re.search("ma$|me$", item)
+                        if lemmatized_benefit_verb_check and item_benefit_verb_check:
+                            pass
+                        else:
+                            last_benefit_item = 'action_benefit_place'
+                            flag_benefit_action_place = True
+                            action_benefit_place_list.append(item)
+                            is_new_benefit_type = True
+
+
+                elif index_of_item == len(benefit_action_item) - 1 and analyzed_benefit == "noun":
+                    last_benefit_item = 'action_benefit_object'
+                    flag_benefit_action_object = True
+                    action_benefit_object_list.append(item)
+                    is_new_benefit_type = True
+
+                if not is_new_benefit_type:
+                    if last_benefit_item == 'action_benefit_object' or last_benefit_item == '':
+                        action_benefit_object_list.append(item)
+                    elif last_benefit_item == 'action_benefit_place':
+                        action_benefit_place_list.append(item)
+                    elif last_benefit_item == 'action_benefit_tool':
+                        action_benefit_tool_list.append(item)
+                    elif last_benefit_item == 'action_benefit_time':
+                        action_benefit_time_list.append(item)
+
+            action_benefit_object = " ".join(reversed(action_benefit_object_list))
+            action_benefit_place = " ".join(reversed(action_benefit_place_list))
+            action_benefit_tool = " ".join(reversed(action_benefit_tool_list))
+            action_benefit_time = " ".join(reversed(action_benefit_time_list))
+
+            with open('separated_sentences.csv', 'a', encoding='UTF8', newline='') as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(
+                    ["US" + str(id_count), role, action_object, action_place, action_tool, action_time, action,
+                     action_benefit_object, action_benefit_place, action_benefit_tool, action_benefit_time,
+                     benefit_action])
+            id_count += 1
